@@ -1,3 +1,21 @@
 <resources>
     <string name="app_name">AndroidLevel1</string>
+    <string name="android_level_1">Android Level 1</string>
+    <string name="checkbox">CheckBox</string>
+    <string name="textOfButton">Не нажата</string>
+    <string name="textOnButton">Нажата</string>
+    <string name="button_1">Button 1</string>
+    <string name="editText">Введите текст</string>
+    <string name="switching">switch</string>
+    <string name="togglebutton">ToggleButton</string>
+    <string name="text">text</string>
+    <string name="textPersonName">textPersonName</string>
+    <string name="phone">phone</string>
+    <string name="number">number</string>
+    <string name="textPassword">textPassword</string>
+    <string name="textEmailAddress">textEmailAddress</string>
+    <string name="textPostalAddress">textPostalAddress</string>
+    <string name="time">time</string>
+    <string name="date">date</string>
+
 </resources>
